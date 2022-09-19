@@ -1,2 +1,2 @@
 # Neuroscience
-Assignments from a Neuroscience course at KTH
+Assignments from Neuroscience course DD2401 at KTH
